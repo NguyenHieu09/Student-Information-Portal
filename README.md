@@ -1,6 +1,3 @@
-#### Nhánh master chứa tài liệu, source code
-#### Nhánh layered là chứa source code của kiến trúc layered được triển khai ban đầu
-#### Sau đó nhóm chuyển từ layered sang service-based với 3 service (Login, ManagerStudent, RegisterCourse)
 # Phân tích yêu cầu
 Hệ thống quản lý sinh viên gồm:
 1. Đăng ký học phần:
